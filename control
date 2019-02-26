@@ -1,0 +1,13 @@
+Package: calamares-settings-lubuntu
+Source: calamares-settings-ubuntu
+Version: 1
+Architecture: all
+Maintainer: Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
+Installed-Size: 1642
+Depends: calamares
+Suggests: lubuntu-qt-desktop
+Section: devel
+Priority: optional
+Homepage: https://github.com/lubuntu-team/calamares-settings-ubuntu
+Description: Lubuntu Next Calamares Settings and Branding
+ This package contains the calamares settings and branding for Lubuntu Next.
