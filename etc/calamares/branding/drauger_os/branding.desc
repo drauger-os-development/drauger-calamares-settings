@@ -4,15 +4,15 @@ componentName: drauger_os
 strings:
     productName:         Drauger OS
     shortProductName:    Drauger OS
-    version:             7.4.1
-    shortVersion:        Jiangshi
+    version:             7.5.1
+    shortVersion:        Zombi
     versionedName:       Drauger OS
-    shortVersionedName:  Drauger OS 7.4.1
-    bootloaderEntryName: Drauger OS 7.4.1
-    productUrl:          https://draugeros.ml/
-    supportUrl:          https://draugeros.ml/go/support/
-    knownIssuesUrl:      https://wiki.ubuntu.com/BionicBeaver/Beta1/LubuntuNext#Known_Problems
-    releaseNotesUrl:     https://wiki.ubuntu.com/BionicBeaver/Beta1/LubuntuNext
+    shortVersionedName:  Drauger OS 7.5.1
+    bootloaderEntryName: Drauger OS 7.5.1
+    productUrl:          https://draugeros.org/go
+    supportUrl:          https://draugeros.org/go/support/
+    knownIssuesUrl:      https://draugeros.org/go/wiki/known-bugs/
+    releaseNotesUrl:     https://draugeros.org/docs/README.pdf
 
 images:
     productLogo:         "logo.png"
@@ -22,6 +22,6 @@ images:
 slideshow:               "show.qml"
 
 style:
-   sidebarBackground:    "#000000"
+   sidebarBackground:    "#131417"
    sidebarText:          "#FFFFFF"
-   sidebarTextSelect:    "#0068C8"
+   sidebarTextSelect:    "#FF3939"

@@ -1,8 +1,8 @@
 Package: drauger-calamares-settings
 Source: calamares-settings-lubuntu
-Version: 0.0.1
+Version: 0.0.2
 Architecture: all
-Maintainer: Thomas Castleman <contact@draugeros.ml>
+Maintainer: Thomas Castleman <contact@draugeros.org>
 Installed-Size: 1642
 Depends: calamares
 Section: devel
