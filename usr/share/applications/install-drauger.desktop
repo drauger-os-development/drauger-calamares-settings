@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Drauger OS
+GenericName=Calamares Installer
+Exec=install-drauger
+Comment=Calamares — Installer for Drauger OS
+Keywords=calamares;system;install;debian;installer
+Icon=install-drauger
+Terminal=false
+Categories=Qt;System;
+StartupWMClass=calamares
+StartupNotify=True
+Name[en_US]=Install Drauger OS
