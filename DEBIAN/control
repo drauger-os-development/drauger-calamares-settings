@@ -1,12 +1,12 @@
 Package: drauger-calamares-settings
 Source: calamares-settings-lubuntu
-Version: 0.0.6
+Version: 0.0.7
 Architecture: all
 Maintainer: Thomas Castleman <contact@draugeros.org>
-Installed-Size: 1642
 Depends: calamares
 Section: devel
 Priority: optional
 Homepage: https://github.com/drauger-os-development/drauger-calamares-settings
 Description: Drauger OS Calamares Settings and Branding
  This package contains the calamares settings and branding for Drauger OS.
+
