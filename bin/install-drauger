@@ -8,7 +8,10 @@
 # Access control to run calamares as root for xwayland
 # Doing the above isn't really necessary but we do it anyways
 #  in case someone has the stupid idea to replace X11 with Wayland (Seriously, don't use Wayland for gaming.)
+#location=$(lsblk -o mountpoint | grep "filesystem.sqaushfs")
+#sed -i "s/    -   source:/    -   source: $location/g" /etc/calamares/modules/unpackfs.conf
 xhost +si:localuser:root
 pkexec calamares
 xhost -si:localuser:root
+#sed -i "s/    -   source: $location/    -   source:/g" /etc/calamares/modules/unpackfs.conf
 
